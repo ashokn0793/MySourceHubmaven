@@ -1,0 +1,2 @@
+# MySourceHubmaven
+new maven project
